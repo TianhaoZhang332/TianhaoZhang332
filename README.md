@@ -1,4 +1,6 @@
 ## Hi there 👋
+**Nice to meet you**
+I hope to learn some computer skills from github, so I am writing a README file.
 
 <!--
 **TianhaoZhang332/TianhaoZhang332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
